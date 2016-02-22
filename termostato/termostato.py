@@ -1,4 +1,4 @@
-import time,math,ConfigParser
+import time,math,ConfigParser,paramiko
 from utils import *
 import opciones as conf
 from subprocess import call
@@ -19,11 +19,25 @@ for line in f:
 
 media=suma/10
 print Thab1
+f.close()
+
+
+ssh = paramiko.SSHClient()
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+ssh.connect(conf.rele1)
+
+sftp = ssh.open_sftp()
+estadoRele = sftp.open(conf.relayFile,'w')
 
 if media < Thab1:
-	call(["ssh", "pi@192.168.17.176", "echo", "1", ">", "/home/pi/temperatura/estado_rele"])
-	print "activado"
+	#call(["ssh", "pi@192.168.17.176", "echo", "1", ">", "/home/pi/temperatura/estado_rele"])
+	#print "activado"
+	estadoRele.write("1")
 else:
-	call(["ssh", "pi@192.168.17.176", "echo", "0", ">", "/home/pi/temperatura/estado_rele"])
-	print "desactivado"
-f.close()
+	#call(["ssh", "pi@192.168.17.176", "echo", "0", ">", "/home/pi/temperatura/estado_rele"])
+	#print "desactivado"
+	estadoRele.write("0")
+
+estadoRele.close()
+sftp.close()
+ssh.close()

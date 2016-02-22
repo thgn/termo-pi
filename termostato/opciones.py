@@ -13,6 +13,9 @@ fTemp1 = "/sys/bus/w1/devices/28-000007097ac7/w1_slave"
 fTemp2 = ""
 fTemp3 = ""
 
+#Rele file
+relayFile = "/home/pi/temperatura/estado_rele"
+
 #Temperaturas de cada termostato
 LastTs = [0,0,0,0,0,25,0,0,4,40]
 Last1Ts = []
