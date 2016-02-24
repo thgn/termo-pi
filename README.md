@@ -7,9 +7,9 @@ The scheme is:
 
 
  ___________
-|:termostato: |
+|termostato	|
 
-|           |   ____WiFi________
+|		|   ____WiFi________
 
 |           |                   |
 
@@ -19,7 +19,7 @@ The scheme is:
  
                                 1======>
                                          ___________
-	|			|	|:termo-rele1:|
+	|			|	|termo-rele1|
 
 	|			|	|           |
 
