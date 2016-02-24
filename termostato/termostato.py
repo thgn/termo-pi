@@ -1,4 +1,4 @@
-import time,math,ConfigParser,paramiko
+import os,time,math,ConfigParser,paramiko
 from utils import *
 import opciones as conf
 from subprocess import call
@@ -6,8 +6,11 @@ from subprocess import call
 
 #Procedimiento para calcular la media ultimos 10 minutos
 suma=0
-f = open('./datos-hab1', 'r')
 line=""
+if os.path.exists("./datos-hab1"):
+	f = open('./datos-hab1', 'r+')
+else:
+	f = open('./datos-hab1', 'w+')
 
 Thab1=getOpciones('./parametros.cfg','temperaturas','hab1')
 

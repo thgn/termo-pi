@@ -1,7 +1,7 @@
 #Temperaturas de las habitaciones
-Thab1 = 18
-Thab2 = 20
-Thab3 = 20
+#Thab1 = 18 - delete
+#Thab2 = 20 - delete
+#Thab3 = 20 - delete
 
 #IP raspberries
 rele1="192.168.17.176"
