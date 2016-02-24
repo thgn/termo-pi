@@ -36,7 +36,6 @@ def insertLast(file, value):
 	with open(file,'r') as fIn:
 		data = fIn.read().splitlines(True)
 		length=file_len(file)
-		print(length)
 	fIn.close()
 	with open(file,'w') as fOut:
 		if length == 10:

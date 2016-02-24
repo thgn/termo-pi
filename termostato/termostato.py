@@ -1,4 +1,4 @@
-import os,time,math,ConfigParser,paramiko
+import sys,os,time,math,ConfigParser,paramiko
 from utils import *
 import opciones as conf
 from subprocess import call
@@ -12,8 +12,9 @@ if os.path.exists("./datos-hab1"):
 else:
 	f = open('./datos-hab1', 'w+')
 
-Thab1=getOpciones('./parametros.cfg','temperaturas','hab1')
+param = os.path.dirname(os.path.realpath(__file__)) + '/parametros.cfg'
 
+Thab1=getOpciones(param,'temperaturas','hab1')
 for line in f:
 	suma=suma+int(line)
 
