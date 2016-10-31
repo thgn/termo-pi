@@ -4,7 +4,7 @@
 #Thab3 = 20 - delete
 
 #IP raspberries
-rele1="192.168.17.176"
+rele1="192.168.27.130"
 rele2=""
 rele3=""
 
@@ -14,7 +14,7 @@ fTemp2 = ""
 fTemp3 = ""
 
 #Rele file
-relayFile = "/home/pi/temperatura/estado_rele"
+relayFile = "/home/pi/termo-pi/relay-temp/estado_rele"
 
 #Temperaturas de cada termostato
 LastTs = [0,0,0,0,0,25,0,0,4,40]
