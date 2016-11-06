@@ -21,3 +21,258 @@ INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
 INFO:root:('Interval: ', ['390', '450'])
 INFO:root:rele-desactivado: FUERA-HORA
 INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 12:04:54
+INFO:root:('Average: ', 19)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:05:03
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:10:55
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:2016-11-01 14:11:49
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:13:30
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:('Minutes: ', 853)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:16:26
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:('Minutes: ', 856)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:17:06
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:('Minutes: ', 31)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:17:36
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:2016-11-01 14:18:10
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:('Minutes: ', 18)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:21:47
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['1020', '1350'])
+INFO:root:('Minutes: ', 921)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:23:23
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 923)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:26:21
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 926)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:30:06
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 930)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:30:55
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 930)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:31:29
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 931)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:32:08
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 932)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:32:55
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 932)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:39:14
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 939)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:41:04
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 941)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:43:35
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 943)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:44:30
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 944)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:45:54
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 945)
+INFO:root:rele-desactivado: FUERA-HORA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:49:31
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 949)
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:50:39
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 950)
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:51:55
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 951)
+INFO:root:rele-activado
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-01 14:53:33
+INFO:root:('Average: ', 20)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 953)
+INFO:root:rele-activado
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.
+INFO:root:2016-11-02 18:15:10
+INFO:root:('Average: ', 22)
+INFO:paramiko.transport:Connected (version 2.0, client OpenSSH_6.7p1)
+INFO:paramiko.transport:Authentication (publickey) successful!
+INFO:paramiko.transport.sftp:[chan 0] Opened sftp connection (server version 3)
+INFO:root:('Interval: ', ['390', '450'])
+INFO:root:('Interval: ', ['900', '1350'])
+INFO:root:('Minutes: ', 1155)
+INFO:root:rele-desactivado: MEDIA
+INFO:paramiko.transport.sftp:[chan 0] sftp session closed.

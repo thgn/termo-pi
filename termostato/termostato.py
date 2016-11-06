@@ -35,16 +35,20 @@ estadoRele = sftp.open(conf.relayFile,'w')
 
 config = ConfigParser.RawConfigParser()
 config.read(param)
-intervalo= [e.strip() for e in config.get('horarios','int1').split(',')]
-logging.info(("Interval: ",intervalo))
+intervalo1= [e.strip() for e in config.get('horarios','int1').split(',')]
+intervalo2= [e.strip() for e in config.get('horarios','int2').split(',')]
+logging.info(("Interval: ",intervalo1))
+logging.info(("Interval: ",intervalo2))
 
-a=intervalo[1]
-b=int(time.strftime("%H", time.gmtime()))*60+int(time.strftime("%M", time.gmtime()))
+a=int(time.strftime("%H", time.gmtime()))
+c=int(time.strftime("%M", time.gmtime()))
+b=int(((a+1)*60)+c)
+logging.info(("Minutes: ",b))
 
 #Check if enabled --> if average is ok --> if interval of operation is correct
 if (getOpciones(param,'act','enable') == 1):
 	if media < Thab1:
-		if ((b>intervalo[0]) and (b<intervalo[1])):
+		if ((b>int(intervalo1[0])) and (b<int(intervalo1[1]))) or ((b>int(intervalo2[0])) and (b<int(intervalo2[1]))):
 			estadoRele.write("1")
 			logging.info("rele-activado")
 		else:
@@ -56,8 +60,6 @@ if (getOpciones(param,'act','enable') == 1):
 else:
 	estadoRele.write("0")
 	logging.info("rele-desactivado: DESACTIVADO")
-
-
 
 estadoRele.close()
 sftp.close()
